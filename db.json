@@ -6,7 +6,7 @@
       "price": 7,
       "rate": 3,
       "sold": 900,
-      "cover": "./assets/images/brocollie.jpg",
+      "cover": "./images/brocollie.jpg",
       "inStock": 1,
       "category": "Vegetables",
       "discount": 5
@@ -17,7 +17,7 @@
       "price": 15,
       "rate": 4,
       "sold": 1600,
-      "cover": "./assets/images/fruit-juice.jpg",
+      "cover": "./images/fruit-juice.jpg",
       "inStock": 1,
       "category": "Juice",
       "discount": 3
@@ -28,7 +28,7 @@
       "price": 19,
       "rate": 4.4,
       "sold": 900,
-      "cover": "./assets/images/almond.jpg",
+      "cover": "./images/almond.jpg",
       "inStock": 1,
       "category": "Dreid",
       "discount": 5
@@ -39,7 +39,7 @@
       "price": 14,
       "rate": 4.4,
       "sold": 800,
-      "cover": "./assets/images/sunflower-seeds.jpg",
+      "cover": "./images/sunflower-seeds.jpg",
       "inStock": 1,
       "category": "Dried",
       "discount": 3
@@ -50,7 +50,7 @@
       "price": 9,
       "rate": 4.4,
       "sold": 900,
-      "cover": "./assets/images/orange-juice.jpg",
+      "cover": "./images/orange-juice.jpg",
       "inStock": 1,
       "category": "Juice",
       "discount": "3"
@@ -61,7 +61,7 @@
       "price": 7,
       "rate": 3,
       "sold": 900,
-      "cover": "./assets/images/brocollie.jpg",
+      "cover": "./images/brocollie.jpg",
       "inStock": 1,
       "category": "Vegetables",
       "discount": 5
@@ -72,7 +72,7 @@
       "price": 15,
       "rate": 4,
       "sold": 1600,
-      "cover": "./assets/images/fruit-juice.jpg",
+      "cover": "./images/fruit-juice.jpg",
       "inStock": 1,
       "category": "Juice",
       "discount": 3
@@ -83,7 +83,7 @@
       "price": 19,
       "rate": 4.4,
       "sold": 900,
-      "cover": "./assets/images/almond.jpg",
+      "cover": "./images/almond.jpg",
       "inStock": 1,
       "category": "Dreid",
       "discount": 5
@@ -94,7 +94,7 @@
       "price": 14,
       "rate": 4.4,
       "sold": 800,
-      "cover": "./assets/images/sunflower-seeds.jpg",
+      "cover": "./images/sunflower-seeds.jpg",
       "inStock": 1,
       "category": "Dried",
       "discount": 3
@@ -105,7 +105,7 @@
       "price": 9,
       "rate": 4.4,
       "sold": 900,
-      "cover": "./assets/images/orange-juice.jpg",
+      "cover": "./images/orange-juice.jpg",
       "inStock": 1,
       "category": "Juice",
       "discount": 10
@@ -115,17 +115,17 @@
     {
       "id": "5",
       "title": "All",
-      "cover": "./assets/images/category-4.jpg"
+      "cover": "./images/category-4.jpg"
     },
     {
       "id": "1",
       "title": "Vegetables",
-      "cover": "./assets/images/category-1.jpg"
+      "cover": "./images/category-1.jpg"
     },
     {
       "id": "2",
       "title": "Fruits",
-      "cover": "./assets/images/category-2.jpg"
+      "cover": "./images/category-2.jpg"
     },
     {
       "id": "3",
@@ -135,21 +135,21 @@
     {
       "id": "4",
       "title": "Dried",
-      "cover": "./assets/images/category-4.jpg"
+      "cover": "./images/category-4.jpg"
     }
   ],
   "heroImages": [
     {
       "id": "1",
-      "url": "./assets/images/bg_1.jpg"
+      "url": "./images/bg_1.jpg"
     },
     {
       "id": "2",
-      "url": "./assets/images/p_bg_1.jpg"
+      "url": "./images/p_bg_1.jpg"
     },
     {
       "id": "3",
-      "url": "./assets/images/bg_2.jpg"
+      "url": "./images/bg_2.jpg"
     }
   ],
   "best-price": {
@@ -158,62 +158,62 @@
     "price": "10",
     "totalPrice": 0,
     "discount": "5",
-    "bgUrl": "./assets/images/bg_3.jpg"
+    "bgUrl": "./images/bg_3.jpg"
   },
   "usersInfo": [
     {
       "userID": 1,
       "userName": "Farzane",
-      "userImgUrl": "./assets/images/person.jpg",
+      "userImgUrl": "./images/person.jpg",
       "userCommentText": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "id": "6a29"
     },
     {
       "userID": 2,
       "userName": "Hossein",
-      "userImgUrl": "./assets/images/person.jpg",
+      "userImgUrl": "./images/person.jpg",
       "userCommentText": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "id": "2320"
     },
     {
       "userID": 3,
       "userName": "Sahel",
-      "userImgUrl": "./assets/images/person.jpg",
+      "userImgUrl": "./images/person.jpg",
       "userCommentText": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "id": "8ef2"
     },
     {
       "userID": 4,
       "userName": "Stephie",
-      "userImgUrl": "./assets/images/person.jpg",
+      "userImgUrl": "./images/person.jpg",
       "userCommentText": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
       "id": "a50e"
     }
   ],
   "services": [
     {
-      "url": "./assets/images/free-delivery.png",
+      "url": "./images/free-delivery.png",
       "title": "Free Shipping",
       "detail": "on order over $100",
       "bg": "#e4b2d6",
       "id": "ebfe"
     },
     {
-      "url": "./assets/images/grocery-cart.png",
+      "url": "./images/grocery-cart.png",
       "title": "Always Fresh",
       "detail": "products well packaged",
       "bg": "#dcc698",
       "id": "8968"
     },
     {
-      "url": "./assets/images/premium-quality.png",
+      "url": "./images/premium-quality.png",
       "title": "Superior Quality",
       "detail": "quality products",
       "bg": "#a2d1e1",
       "id": "ae0e"
     },
     {
-      "url": "./assets/images/customer-service.png",
+      "url": "./images/customer-service.png",
       "title": "Support",
       "detail": "24/7 support",
       "bg": "#dcd691",
@@ -259,7 +259,7 @@
       "quantity": 1,
       "rate": 3,
       "sold": 900,
-      "cover": "./assets/images/brocollie.jpg",
+      "cover": "./images/brocollie.jpg",
       "inStock": 1,
       "category": "Vegetables",
       "discount": 5
